@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NahinKhan113
+- 👋 Hi, I’m @NahinKhan
 - 👀 I’m interested in communication technology and green energy
 - 🌱 I’m currently learning python
 - 📫 How to reach me https://www.linkedin.com/in/asrafuzzaman-khan-nahin-b330a41a6/
